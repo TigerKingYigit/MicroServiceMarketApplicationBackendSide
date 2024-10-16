@@ -1,0 +1,2 @@
+product module server port = 8082
+sale module server port = 8080
